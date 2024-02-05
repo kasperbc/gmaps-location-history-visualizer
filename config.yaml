@@ -1,0 +1,2 @@
+file_name: "Records.json" # The file name of the Google Maps Records file
+heatmap: false # Show the data as a heatmap
